@@ -1,4 +1,4 @@
-# CRAC 业余无线电台操作证书考试笔记本（**`crac-ham-radio`**）
+# CRAC 业余无线电台操作证书考试笔记本（crac-ham-radio）
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.zh)
 
